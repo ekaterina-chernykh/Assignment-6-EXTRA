@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Assignment-6/main.csproj",
+      "projectUniqueName": "/home/runner/Assignment-6-EXTRA/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Assignment-6/main.csproj",
+      "projectPath": "/home/runner/Assignment-6-EXTRA/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Assignment-6/obj/",
+      "outputPath": "/home/runner/Assignment-6-EXTRA/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
